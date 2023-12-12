@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "26e1b0e246adc289",
+    "type": "split",
+    "children": [
+      {
+        "id": "506812fcbdcb43ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ecdffa8d7cd3892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/2021-08-26-welcome/index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2aca99625a05e913",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ac06b1f4b77065b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "529f9a2c4f3aa6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/blog-template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "540fd8c54db8eda5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5d26800e59d26a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6243b6bcc9c25f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8a26d677106ce5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ea3dea96282aecb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75f8183cb556c889",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a462243d2ab529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce73724fde5e6286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/2021-08-26-welcome/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9255e7f8915eb53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/2021-08-26-welcome/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6d5e6befe35e266",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "309f2d9119db06aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/2021-08-26-welcome/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5ecdffa8d7cd3892",
+  "lastOpenFiles": [
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119363.jpeg",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119358.png",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119354.png",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119349.svg",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119344.svg",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119339.svg",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119334.svg",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119330.png",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119325.jpg",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119320.png",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index/IMG-20231212192119315.jpeg",
+    "template/template/blog-template",
+    "template/template",
+    "static/CNAME",
+    "drfat/接案.md",
+    "drfat/前端學習三步驟.md",
+    "drfat",
+    "yarn.lock",
+    "package-lock.json",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome/index",
+    "blog/2021-08-26-welcome/blog/2021-08-26-welcome",
+    "blog/2021-08-26-welcome/blog",
+    "blog/2021-08-01-mdx-blog-post.mdx",
+    "blog/2019-05-29-long-blog-post.md",
+    "template/blog-template.md",
+    "node_modules/source-map/CHANGELOG.md",
+    "node_modules/debug/CHANGELOG.md",
+    "node_modules/ajv/lib/dotjs/README.md",
+    "node_modules/ajv-keywords/keywords/dotjs/README.md",
+    "node_modules/zwitch/readme.md",
+    "node_modules/update-notifier/node_modules/semver/README.md",
+    "node_modules/spdy/node_modules/debug/README.md",
+    "node_modules/spdy/node_modules/ms/readme.md",
+    "node_modules/spdy/node_modules/ms/license.md",
+    "node_modules/spdy-transport/node_modules/ms/readme.md",
+    "node_modules/spdy-transport/node_modules/ms/license.md",
+    "node_modules/spdy-transport/node_modules/debug/README.md",
+    "node_modules/tapable/README.md",
+    "node_modules/stringify-object/readme.md",
+    "node_modules/stable/README.md",
+    "node_modules/serve-handler/node_modules/mime-types/README.md",
+    "node_modules/serve-handler/node_modules/mime-types/HISTORY.md",
+    "node_modules/serve-handler/node_modules/range-parser/README.md",
+    "node_modules/serve-handler/node_modules/range-parser/HISTORY.md",
+    "node_modules/serve-handler/node_modules/mime-db/README.md",
+    "node_modules/serve-handler/node_modules/mime-db/HISTORY.md"
+  ]
+}
